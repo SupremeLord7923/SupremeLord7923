@@ -1,7 +1,5 @@
 # 💫 About Me:
 On a car dealership<br>I am planning to collaborate with a big car company<br>I am looking for help in python-learning<br>I am currently learning CSS<br>Ask me about HTML<br>Fun fact about me is I am very social <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
 # 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
